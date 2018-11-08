@@ -1,0 +1,14 @@
+{
+  "name": "game_server",
+  "version": "1.0.0",
+  "description": "Game server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lan Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}

@@ -1,0 +1,54 @@
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.main-background {
+  background-color: #d1caca;
+  height: 100%;
+}
+
+.login-window {
+  width: 60%;
+  height: 70%;
+  background-color: #fff;
+  position: absolute;
+  top: 15%;
+  left: 20%;
+}
+
+.login-window h5 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+}
+
+.login-window form {
+  padding: 1.5rem;
+}
+
+form button {
+  text-transform: uppercase;
+  font-size: 1.1rem !important;
+  background-color: #326079 !important;
+}
+
+form input {
+  border: #000 1px solid !important;
+}
+
+p {
+  width: 92%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px auto 20px;
+}
+
+p span {
+  background: #fff;
+  padding: 0 10px;
+}
